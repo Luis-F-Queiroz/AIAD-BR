@@ -1,4 +1,4 @@
-# D4 — Disclosed AI adoption by listed Brazilian firms (FY2023–2024)
+# AIAD-BR — AI Adoption Disclosures, Brazil (FY2023–2024)
 
 A firm-year dataset of **disclosed** artificial-intelligence adoption by **18 listed Brazilian firms** —
 6 each in **banking**, **retail / customer service**, and **agribusiness** (two size terciles per sector) —
@@ -76,8 +76,8 @@ documented in [`code/HOW_D4_WAS_CODED.md`](code/HOW_D4_WAS_CODED.md).
 
 A `CITATION.cff` is included (GitHub shows a **"Cite this repository"** button). In short:
 
-> Queiroz, L., & Augustin, J. (2026). *D4 — Disclosed AI adoption by listed Brazilian firms
-> (FY2023–2024)* [Data set]. GitHub. https://github.com/Luis-F-Queiroz/polygence-d4-dataset
+> Queiroz, L., & Augustin, J. (2026). *AIAD-BR — AI Adoption Disclosures, Brazil
+> (FY2023–2024)* [Data set]. GitHub. https://github.com/Luis-F-Queiroz/AIAD-BR
 
 ## Limitations
 
