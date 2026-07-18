@@ -1,0 +1,55 @@
+You are an expert research coder performing content analysis for an academic economics study on
+disclosed AI adoption by listed Brazilian firms (D4). Code EVERY firm-year in the EVIDENCE section
+below, strictly per this CODEBOOK. You are coding what the firm STATES PUBLICLY about its own AI use
+(disclosed adoption), not the truth of it. Descriptive/associational only.
+
+=================== CODEBOOK (authoritative — apply exactly) ===================
+INCLUSION RULES:
+- Precision agriculture / "agricultura digital" / IoT counts as AI ONLY when the firm itself ties it to
+  AI/ML/analytics. Bare "sensores"/"GPS"/"drones" without AI framing does NOT count.
+- Generic "transformação digital"/"digitalização" without AI language does NOT count.
+- Rules-based automation / RPA counts, but tag it in use_case as non-ML automation.
+
+adopt_level — level of DISCLOSED AI adoption (code the HIGHEST the disclosures support):
+  0 = none disclosed — no AI mention, OR only aspiration/intent with no described use
+      ("pretendemos investir em IA"). A firm with zero AI content stays at 0.
+  1 = piloting/partial — a described AI use at pilot/limited/testing stage, or one narrow deployment.
+  2 = deployed at scale — a NAMED, OPERATING AI system in production across operations or customers
+      ("o assistente virtual BIA atende..."). Never awarded for aspiration.
+
+claim_specificity — how concrete the STRONGEST claim is (guards against AI-washing):
+  0 = vague (AI mentioned, no named use/system) · 1 = named (specific use case/system named) ·
+  2 = quantified (named use WITH a number: users served, % automated, cost/time saved).
+  (null only if adopt_level = 0 / no claim at all.)
+
+use_case — tag(s), multiple allowed: customer-service/chatbot · credit/underwriting/risk · fraud/AML ·
+  process-automation/RPA · precision-ag · supply-chain/logistics · marketing/personalization · HR/people ·
+  data-analytics · other. use_case_other = free text if "other", else "".
+
+labor_signal — the firm's framing of AI's WORKFORCE implication, IN THE SAME CONTEXT as the AI disclosure
+  (a stated stance, not a measured employment change):
+  hiring   — AI linked to new/growing roles (AI teams, hiring data scientists, AI talent).
+  neutral  — AI with no workforce framing, OR framed as augmenting/assisting workers or a process, with no
+             link to headcount size, growth, or personnel cost.
+  restraint— AI efficiency/productivity/cost framing TIED TO THE WORKFORCE (headcount, staffing, operating
+             leverage, cost-to-income, "without adding people") implying slower headcount growth; no cuts.
+  cuts     — AI/automation linked to reducing headcount/roles (layoffs, eliminating/redeploying-out).
+  Decision rule: code the DOMINANT signal in the AI-labor context; if none present → neutral.
+  RESTRAINT vs NEUTRAL — the decisive test: does the passage tie AI to the SIZE, GROWTH, or COST of the
+  workforce? Tied to headcount/staffing/personnel cost/operating leverage/cost-to-income → restraint.
+  Tied only to output/quality/speed or a worker's OWN productivity (augmentation) → neutral. Explicit
+  reduction of roles → cuts. ("produtividade"/"productivity" ALONE ≠ restraint.) Co-occurrence must be in
+  the SAME passage/paragraph as the AI mention.
+
+=================== HARD RULES FOR YOUR OUTPUT ===================
+1. Code ONLY from the evidence passages provided (they are the AI mentions extracted from the firm's
+   public filings). Do NOT use outside knowledge about the company.
+2. If a firm-year shows "NONE" passages → adopt_level 0, claim_specificity null, labor_signal neutral,
+   use_case [], evidence_quote "" , notes explaining no AI disclosed.
+3. evidence_quote MUST be copied VERBATIM (an exact character substring) from one of that firm-year's
+   passages — never paraphrase or invent. Choose the single strongest quote, ≤ 40 words. Trim leading/
+   trailing "…". Its source_url = the URL shown for the passage you quoted; doc_type = its doc_slot.
+4. Output every firm-year in your batch exactly once, via the required JSON schema. notes: 1 sentence of
+   rationale; flag genuine ambiguity. confidence: low/medium/high on your adopt_level.
+
+=================== EVIDENCE ===================

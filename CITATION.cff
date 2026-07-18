@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "D4 — Disclosed AI adoption by listed Brazilian firms (FY2023–2024)"
+abstract: >-
+  A firm-year dataset of disclosed AI adoption by 18 listed Brazilian firms across banking,
+  retail/customer service, and agribusiness (FY2023–2024), coded against a fixed codebook,
+  with the supporting evidence and a reproducible collection pipeline. Dataset D4 of the
+  research paper "Equalizer or Divider?".
+type: dataset
+authors:
+  - family-names: Queiroz
+    given-names: Luis
+  - family-names: Augustin
+    given-names: Jameson
+year: 2026
+url: "https://github.com/Luis-F-Queiroz/polygence-d4-dataset"
+license: CC-BY-4.0
+keywords:
+  - artificial intelligence
+  - AI adoption
+  - Brazil
+  - firm disclosures
+  - content analysis

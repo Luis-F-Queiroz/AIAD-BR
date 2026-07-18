@@ -1,0 +1,100 @@
+{
+ "type": "object",
+ "additionalProperties": false,
+ "required": [
+  "codings"
+ ],
+ "properties": {
+  "codings": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+     "cd_cvm",
+     "fiscal_year",
+     "firm",
+     "adopt_level",
+     "claim_specificity",
+     "labor_signal",
+     "use_case",
+     "use_case_other",
+     "evidence_quote",
+     "source_url",
+     "doc_type",
+     "notes",
+     "confidence"
+    ],
+    "properties": {
+     "cd_cvm": {
+      "type": "string"
+     },
+     "fiscal_year": {
+      "type": "integer"
+     },
+     "firm": {
+      "type": "string"
+     },
+     "adopt_level": {
+      "type": "integer",
+      "enum": [
+       0,
+       1,
+       2
+      ]
+     },
+     "claim_specificity": {
+      "type": [
+       "integer",
+       "null"
+      ],
+      "enum": [
+       0,
+       1,
+       2,
+       null
+      ]
+     },
+     "labor_signal": {
+      "type": "string",
+      "enum": [
+       "hiring",
+       "neutral",
+       "restraint",
+       "cuts"
+      ]
+     },
+     "use_case": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     },
+     "use_case_other": {
+      "type": "string"
+     },
+     "evidence_quote": {
+      "type": "string"
+     },
+     "source_url": {
+      "type": "string"
+     },
+     "doc_type": {
+      "type": "string"
+     },
+     "notes": {
+      "type": "string"
+     },
+     "confidence": {
+      "type": "string",
+      "enum": [
+       "low",
+       "medium",
+       "high"
+      ]
+     }
+    }
+   }
+  }
+ }
+}

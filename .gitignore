@@ -1,0 +1,5 @@
+# Raw firm filings (~1.2 GB) are NOT distributed — reproducible via code/collect_d4.py
+raw/
+*.bin
+.DS_Store
+__pycache__/
