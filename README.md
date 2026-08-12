@@ -76,7 +76,7 @@ documented in [`code/HOW_D4_WAS_CODED.md`](code/HOW_D4_WAS_CODED.md).
 
 A `CITATION.cff` is included (GitHub shows a **"Cite this repository"** button). In short:
 
-> Queiroz, L., & Augustin, J. (2026). *AIAD-BR — AI Adoption Disclosures, Brazil
+> Queiroz, L. (2026). *AIAD-BR — AI Adoption Disclosures, Brazil
 > (FY2023–2024)* [Data set]. GitHub. https://github.com/Luis-F-Queiroz/AIAD-BR
 
 ## Limitations
