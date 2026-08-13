@@ -1,0 +1,50 @@
+study_sector,mapping_basis,naics,industry_title,aiie,aiie_language_modeling,aiie_image_generation
+banking_financial,finance (NAICS 52),5211,Monetary Authorities-Central Bank,1.77,1.643,1.739
+banking_financial,finance (NAICS 52),5220,Credit Intermediation and Related Activities (5221 And 5223 only),1.889,1.801,1.344
+banking_financial,finance (NAICS 52),5222,Nondepository Credit Intermediation,2.113,2.051,1.543
+banking_financial,finance (NAICS 52),5230,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",2.219,2.105,1.849
+banking_financial,finance (NAICS 52),5241,Insurance Carriers,2.059,1.976,1.785
+banking_financial,finance (NAICS 52),5242,"Agencies, Brokerages, and Other Insurance Related Activities",2.121,2.087,1.624
+banking_financial,finance (NAICS 52),5251,Insurance and Employee Benefit Funds,2.18,2.053,1.911
+banking_financial,finance (NAICS 52),5259,Other Investment Pools and Funds,2.07,1.962,1.778
+retail_customer_service,retail stores (NAICS 44-45),4411,Automobile Dealers,-0.167,-0.086,-0.483
+retail_customer_service,retail stores (NAICS 44-45),4412,Other Motor Vehicle Dealers,-0.13,-0.009,-0.566
+retail_customer_service,retail stores (NAICS 44-45),4413,"Automotive Parts, Accessories, and Tire Stores",-0.687,-0.594,-0.874
+retail_customer_service,retail stores (NAICS 44-45),4421,Furniture Stores,-0.011,0.192,-0.585
+retail_customer_service,retail stores (NAICS 44-45),4422,Home Furnishings Stores,0.05,0.295,-0.769
+retail_customer_service,retail stores (NAICS 44-45),4431,Electronics and Appliance Stores,0.362,0.554,-0.281
+retail_customer_service,retail stores (NAICS 44-45),4441,Building Material and Supplies Dealers,0.105,0.354,-0.718
+retail_customer_service,retail stores (NAICS 44-45),4442,Lawn and Garden Equipment and Supplies Stores,-0.464,-0.247,-1.038
+retail_customer_service,retail stores (NAICS 44-45),4450,Food and Beverage Stores (4451 and 4452 only),-0.407,-0.188,-1.16
+retail_customer_service,retail stores (NAICS 44-45),4453,"Beer, Wine, and Liquor Stores",-0.019,0.229,-1.004
+retail_customer_service,retail stores (NAICS 44-45),4461,Health and Personal Care Stores,0.326,0.404,-0.165
+retail_customer_service,retail stores (NAICS 44-45),4471,Gasoline Stations,-0.311,-0.106,-1.193
+retail_customer_service,retail stores (NAICS 44-45),4481,Clothing Stores,0.227,0.57,-0.907
+retail_customer_service,retail stores (NAICS 44-45),4482,Shoe Stores,0.281,0.645,-0.918
+retail_customer_service,retail stores (NAICS 44-45),4483,"Jewelry, Luggage, and Leather Goods Stores",0.383,0.588,-0.385
+retail_customer_service,retail stores (NAICS 44-45),4511,"Sporting Goods, Hobby, and Musical Instrument Stores",0.209,0.513,-0.794
+retail_customer_service,retail stores (NAICS 44-45),4512,Book Stores and News Dealers,0.25,0.582,-0.877
+retail_customer_service,retail stores (NAICS 44-45),4520,General Merchandise Stores,-0.007,0.27,-0.983
+retail_customer_service,retail stores (NAICS 44-45),4530,Miscellaneous Store Retailers (4532 and 4533 only),0.166,0.458,-0.809
+retail_customer_service,retail stores (NAICS 44-45),4531,Florists,-0.369,-0.259,0.11
+retail_customer_service,retail stores (NAICS 44-45),4539,Other Miscellaneous Store Retailers,0.008,0.285,-0.871
+retail_customer_service,retail stores (NAICS 44-45),4541,Electronic Shopping and Mail-Order Houses,0.605,0.662,0.352
+retail_customer_service,retail stores (NAICS 44-45),4542,Vending Machine Operators,-0.665,-0.692,-0.442
+retail_customer_service,retail stores (NAICS 44-45),4543,Direct Selling Establishments,-0.043,-0.061,-0.015
+retail_customer_service,customer-service / back-office proxy,5182,"Data Processing, Hosting, and Related Services",1.743,1.654,1.697
+retail_customer_service,customer-service / back-office proxy,5611,Office Administrative Services,1.754,1.674,1.471
+retail_customer_service,customer-service / back-office proxy,5614,Business Support Services,1.705,1.881,0.744
+agribusiness,agricultural support & logging (NAICS 11),1133,Logging,-1.36,-1.74,-0.075
+agribusiness,agricultural support & logging (NAICS 11),1151,Support Activities for Crop Production,-2.165,-1.936,-2.263
+agribusiness,agricultural support & logging (NAICS 11),1152,Support Activities for Animal Production,-1.149,-1.034,-1.162
+agribusiness,food & beverage manufacturing (NAICS 311-312),3111,Animal Food Manufacturing,-0.789,-0.861,-0.586
+agribusiness,food & beverage manufacturing (NAICS 311-312),3112,Grain and Oilseed Milling,-0.721,-0.786,-0.563
+agribusiness,food & beverage manufacturing (NAICS 311-312),3113,Sugar and Confectionery Product Manufacturing,-0.773,-0.743,-0.948
+agribusiness,food & beverage manufacturing (NAICS 311-312),3114,Fruit and Vegetable Preserving and Specialty Food Manufacturing,-0.981,-1.0,-0.959
+agribusiness,food & beverage manufacturing (NAICS 311-312),3115,Dairy Product Manufacturing,-0.844,-0.895,-0.728
+agribusiness,food & beverage manufacturing (NAICS 311-312),3116,Animal Slaughtering and Processing,-1.663,-1.515,-1.93
+agribusiness,food & beverage manufacturing (NAICS 311-312),3117,Seafood Product Preparation and Packaging,-1.258,-1.162,-1.419
+agribusiness,food & beverage manufacturing (NAICS 311-312),3118,Bakeries and Tortilla Manufacturing,-0.802,-0.767,-0.872
+agribusiness,food & beverage manufacturing (NAICS 311-312),3119,Other Food Manufacturing,-0.854,-0.85,-0.865
+agribusiness,food & beverage manufacturing (NAICS 311-312),3121,Beverage Manufacturing,-0.659,-0.572,-0.786
+agribusiness,food & beverage manufacturing (NAICS 311-312),3122,Tobacco Manufacturing,-0.884,-0.971,-0.59

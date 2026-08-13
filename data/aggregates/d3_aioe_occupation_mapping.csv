@@ -1,0 +1,26 @@
+study_sector,mapping_basis,soc,occupation_title,aioe,aioe_language_modeling,aioe_image_generation
+banking_financial,finance occupations,11-3031,Financial Managers,1.446,1.295,1.331
+banking_financial,finance occupations,13-2011,Accountants and Auditors,1.482,1.214,1.572
+banking_financial,finance occupations,13-2041,Credit Analysts,1.345,1.092,1.176
+banking_financial,finance occupations,13-2051,Financial Analysts,1.381,1.273,1.164
+banking_financial,finance occupations,13-2052,Personal Financial Advisors,1.401,1.396,0.815
+banking_financial,finance occupations,13-2061,Financial Examiners,1.526,1.358,1.453
+banking_financial,finance occupations,13-2072,Loan Officers,1.386,1.477,0.33
+banking_financial,finance occupations,41-3031,"Securities, Commodities, and Financial Services Sales Agents",1.256,1.26,0.773
+banking_financial,finance occupations,43-3071,Tellers,0.473,0.431,-0.057
+retail_customer_service,retail-store occupations,41-1011,First-Line Supervisors/Managers of Retail Sales Workers,0.019,0.201,-0.503
+retail_customer_service,retail-store occupations,41-2011,Cashiers,-0.248,-0.107,-0.855
+retail_customer_service,retail-store occupations,41-2031,Retail Salespersons,0.087,0.357,-0.719
+retail_customer_service,customer-service occupations,43-4051,Customer Service Representatives,0.956,1.076,0.415
+retail_customer_service,customer-service occupations,41-9041,Telemarketers,1.118,1.926,-1.428
+retail_customer_service,customer-service occupations,43-3011,Bill and Account Collectors,1.272,1.27,0.764
+agribusiness,agribusiness occupations,11-9013,"Farmers, Ranchers, and Other Agricultural Managers",-0.144,-0.158,0.016
+agribusiness,agribusiness occupations,45-1011,"First-Line Supervisors/Managers of Farming, Fishing, and Forestry Workers",-0.479,-0.558,-0.261
+agribusiness,agribusiness occupations,45-2011,Agricultural Inspectors,0.17,-0.008,0.507
+agribusiness,agribusiness occupations,45-2041,"Graders and Sorters, Agricultural Products",-1.371,-1.032,-2.189
+agribusiness,agribusiness occupations,45-2091,Agricultural Equipment Operators,-1.145,-1.24,-0.855
+agribusiness,agribusiness occupations,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",-1.601,-1.432,-1.591
+agribusiness,agribusiness occupations,45-2093,"Farmworkers, Farm and Ranch Animals",-1.108,-1.089,-0.898
+agribusiness,agribusiness occupations,51-3021,Butchers and Meat Cutters,-0.971,-0.977,-0.916
+agribusiness,agribusiness occupations,51-3092,Food Batchmakers,-0.379,-0.427,-0.649
+agribusiness,agribusiness occupations,19-1013,Soil and Plant Scientists,0.632,0.609,0.804

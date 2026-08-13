@@ -1,0 +1,28 @@
+study_sector,isco_major_group,label,employed_thousands,share_pct,aioe_group,contribution
+retail_customer_service,1,Managers,937.9,4.83,0.962,0.0465
+retail_customer_service,2,Professionals,427.1,2.2,0.839,0.0185
+retail_customer_service,3,Technicians and associate professionals,640.1,3.3,0.709,0.0234
+retail_customer_service,4,Clerical support workers,1471.2,7.58,0.645,0.0489
+retail_customer_service,5,Service and sales workers,9978.2,51.39,-0.257,-0.1321
+retail_customer_service,6,"Skilled agricultural, forestry and fishery workers",14.2,0.07,-1.057,-0.0008
+retail_customer_service,7,Craft and related trades workers,2612.3,13.46,-1.016,-0.1367
+retail_customer_service,8,"Plant and machine operators, and assemblers",924.3,4.76,-0.785,-0.0374
+retail_customer_service,9,Elementary occupations,2410.1,12.41,-0.93,-0.1154
+banking_financial,1,Managers,762.5,6.08,0.962,0.0585
+banking_financial,2,Professionals,3450.9,27.5,0.839,0.2307
+banking_financial,3,Technicians and associate professionals,2258.2,18.0,0.709,0.1276
+banking_financial,4,Clerical support workers,2172.3,17.31,0.645,0.1117
+banking_financial,5,Service and sales workers,1887.4,15.04,-0.257,-0.0387
+banking_financial,6,"Skilled agricultural, forestry and fishery workers",109.0,0.87,-1.057,-0.0092
+banking_financial,7,Craft and related trades workers,428.8,3.42,-1.016,-0.0347
+banking_financial,8,"Plant and machine operators, and assemblers",220.5,1.76,-0.785,-0.0138
+banking_financial,9,Elementary occupations,1258.9,10.03,-0.93,-0.0933
+agribusiness,1,Managers,96.1,1.23,0.962,0.0119
+agribusiness,2,Professionals,33.0,0.42,0.839,0.0036
+agribusiness,3,Technicians and associate professionals,37.4,0.48,0.709,0.0034
+agribusiness,4,Clerical support workers,56.5,0.73,0.645,0.0047
+agribusiness,5,Service and sales workers,62.3,0.8,-0.257,-0.0021
+agribusiness,6,"Skilled agricultural, forestry and fishery workers",4662.5,59.85,-1.057,-0.6327
+agribusiness,7,Craft and related trades workers,122.8,1.58,-1.016,-0.016
+agribusiness,8,"Plant and machine operators, and assemblers",494.7,6.35,-0.785,-0.0499
+agribusiness,9,Elementary occupations,2224.4,28.56,-0.93,-0.2656

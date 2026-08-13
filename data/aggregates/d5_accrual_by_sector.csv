@@ -1,0 +1,4 @@
+sector,window,productivity_growth_pct,real_wage_growth_pct,prod_wage_gap_pp,gap_positive_years,labor_share_2012,labor_share_2021,labor_share_change_pp,pattern,productivity_source
+banking_financial,2012-2024,-5.0,4.2,-9.2,0/12,0.4244,0.45,2.6,consistent with equalizer (wages kept pace or outpaced productivity),wdi_services_backdrop
+retail_customer_service,2012-2024,-8.5,2.6,-11.1,4/12,0.4706,0.4885,1.8,consistent with equalizer (wages kept pace or outpaced productivity),scn_real_vab_per_pnad_worker
+agribusiness,2012-2024,90.0,29.2,60.8,12/12,0.2069,0.1116,-9.5,consistent with divider (gains to capital),scn_real_vab_per_pnad_worker

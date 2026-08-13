@@ -1,0 +1,31 @@
+sector,year,scn_activity,remuneracoes_mrl_current,vab_mrl_current,labor_share,ocupacoes,narrow_finance_real_prod_index_2012_100
+banking_financial,2012,Atividades financeiras (narrow),110479.0,260312.0,0.4244,1132240,100.0
+banking_financial,2013,Atividades financeiras (narrow),119723.0,272571.0,0.4392,1124207,102.5
+banking_financial,2014,Atividades financeiras (narrow),128519.0,318680.0,0.4033,1219612,94.0
+banking_financial,2015,Atividades financeiras (narrow),143243.0,365276.0,0.3922,1199865,94.4
+banking_financial,2016,Atividades financeiras (narrow),156766.0,425532.0,0.3684,1209240,90.4
+banking_financial,2017,Atividades financeiras (narrow),162747.0,429463.0,0.379,1195944,90.4
+banking_financial,2018,Atividades financeiras (narrow),165217.0,422662.0,0.3909,1241143,88.0
+banking_financial,2019,Atividades financeiras (narrow),179777.0,460292.0,0.3906,1406232,78.5
+banking_financial,2020,Atividades financeiras (narrow),181285.0,454550.0,0.3988,1410816,80.8
+banking_financial,2021,Atividades financeiras (narrow),201153.0,447048.0,0.45,1519655,74.5
+retail_customer_service,2012,Comercio,258040.0,548339.0,0.4706,18571850,
+retail_customer_service,2013,Comercio,288246.0,614087.0,0.4694,18587775,
+retail_customer_service,2014,Comercio,317107.0,676562.0,0.4687,19363778,
+retail_customer_service,2015,Comercio,344668.0,685708.0,0.5026,18873373,
+retail_customer_service,2016,Comercio,363454.0,699767.0,0.5194,18523571,
+retail_customer_service,2017,Comercio,382199.0,746159.0,0.5122,18858801,
+retail_customer_service,2018,Comercio,401709.0,783047.0,0.513,19262504,
+retail_customer_service,2019,Comercio,420837.0,822590.0,0.5116,18959022,
+retail_customer_service,2020,Comercio,404268.0,825346.0,0.4898,17613390,
+retail_customer_service,2021,Comercio,471788.0,965702.0,0.4885,18825573,
+agribusiness,2012,Agropecuaria,41516.0,200695.0,0.2069,13432939,
+agribusiness,2013,Agropecuaria,45194.0,240290.0,0.1881,13448116,
+agribusiness,2014,Agropecuaria,48200.0,249975.0,0.1928,14169748,
+agribusiness,2015,Agropecuaria,49810.0,258967.0,0.1923,13137526,
+agribusiness,2016,Agropecuaria,55870.0,306655.0,0.1822,13106687,
+agribusiness,2017,Agropecuaria,58633.0,302971.0,0.1935,13077397,
+agribusiness,2018,Agropecuaria,58828.0,309611.0,0.19,13380021,
+agribusiness,2019,Agropecuaria,58314.0,310714.0,0.1877,13187888,
+agribusiness,2020,Agropecuaria,56426.0,434621.0,0.1298,12560399,
+agribusiness,2021,Agropecuaria,65992.0,591085.0,0.1116,13143122,

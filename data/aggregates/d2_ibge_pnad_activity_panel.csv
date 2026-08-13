@@ -1,0 +1,141 @@
+activity_group_id,activity_group,study_sector,year,employed_thousands,emp_share_pnad,mean_real_income_brl
+47947,"Agricultura, pecuária, produção florestal, pesca e aquicultura",agribusiness,2012,10131.0,11.3499,1636.0
+47947,"Agricultura, pecuária, produção florestal, pesca e aquicultura",agribusiness,2013,10011.0,11.0236,1760.0
+47947,"Agricultura, pecuária, produção florestal, pesca e aquicultura",agribusiness,2014,9443.0,10.3068,1843.0
+47947,"Agricultura, pecuária, produção florestal, pesca e aquicultura",agribusiness,2015,9220.0,10.0601,1723.0
+47947,"Agricultura, pecuária, produção florestal, pesca e aquicultura",agribusiness,2016,8892.0,9.8917,1702.0
+47947,"Agricultura, pecuária, produção florestal, pesca e aquicultura",agribusiness,2017,8517.0,9.4453,1828.0
+47947,"Agricultura, pecuária, produção florestal, pesca e aquicultura",agribusiness,2018,8458.0,9.2418,1871.0
+47947,"Agricultura, pecuária, produção florestal, pesca e aquicultura",agribusiness,2019,8552.0,9.1432,1867.0
+47947,"Agricultura, pecuária, produção florestal, pesca e aquicultura",agribusiness,2020,7955.0,9.3271,1982.0
+47947,"Agricultura, pecuária, produção florestal, pesca e aquicultura",agribusiness,2021,8718.0,9.9148,1853.0
+47947,"Agricultura, pecuária, produção florestal, pesca e aquicultura",agribusiness,2022,8434.0,8.8632,1960.0
+47947,"Agricultura, pecuária, produção florestal, pesca e aquicultura",agribusiness,2023,8067.0,8.1705,1991.0
+47947,"Agricultura, pecuária, produção florestal, pesca e aquicultura",agribusiness,2024,7790.0,7.6893,2114.0
+47947,"Agricultura, pecuária, produção florestal, pesca e aquicultura",agribusiness,2025,7876.0,7.6479,2275.0
+47948,Indústria geral,,2012,12973.0,14.5338,3073.0
+47948,Indústria geral,,2013,12825.0,14.1223,3115.0
+47948,Indústria geral,,2014,13394.0,14.6192,3248.0
+47948,Indústria geral,,2015,12882.0,14.0558,3163.0
+47948,Indústria geral,,2016,11517.0,12.8118,3124.0
+47948,Indústria geral,,2017,11851.0,13.1427,3216.0
+47948,Indústria geral,,2018,11904.0,13.0071,3154.0
+47948,Indústria geral,,2019,12256.0,13.1033,3206.0
+47948,Indústria geral,,2020,11206.0,13.1389,3467.0
+47948,Indústria geral,,2021,11471.0,13.0458,3099.0
+47948,Indústria geral,,2022,12131.0,12.7483,2925.0
+47948,Indústria geral,,2023,12700.0,12.863,3119.0
+47948,Indústria geral,,2024,13021.0,12.8528,3255.0
+47948,Indústria geral,,2025,13321.0,12.9351,3388.0
+47949,Construção,,2012,7602.0,8.5166,2547.0
+47949,Construção,,2013,8084.0,8.9017,2702.0
+47949,Construção,,2014,7848.0,8.5659,2684.0
+47949,Construção,,2015,7696.0,8.3973,2668.0
+47949,Construção,,2016,7456.0,8.2942,2680.0
+47949,Construção,,2017,7087.0,7.8594,2526.0
+47949,Construção,,2018,6808.0,7.4389,2507.0
+47949,Construção,,2019,6859.0,7.3332,2542.0
+47949,Construção,,2020,6151.0,7.2119,2524.0
+47949,Construção,,2021,6740.0,7.6653,2237.0
+47949,Construção,,2022,7121.0,7.4833,2418.0
+47949,Construção,,2023,7286.0,7.3795,2606.0
+47949,Construção,,2024,7675.0,7.5758,2682.0
+47949,Construção,,2025,7373.0,7.1594,2710.0
+47950,"Comércio, reparação de veículos automotores e motocicletas",retail_customer_service,2012,17008.0,19.0542,2741.0
+47950,"Comércio, reparação de veículos automotores e motocicletas",retail_customer_service,2013,17350.0,19.105,2756.0
+47950,"Comércio, reparação de veículos automotores e motocicletas",retail_customer_service,2014,17397.0,18.9884,2796.0
+47950,"Comércio, reparação de veículos automotores e motocicletas",retail_customer_service,2015,17617.0,19.2223,2652.0
+47950,"Comércio, reparação de veículos automotores e motocicletas",retail_customer_service,2016,17411.0,19.3684,2639.0
+47950,"Comércio, reparação de veículos automotores e motocicletas",retail_customer_service,2017,17471.0,19.3752,2550.0
+47950,"Comércio, reparação de veículos automotores e motocicletas",retail_customer_service,2018,17647.0,19.2823,2586.0
+47950,"Comércio, reparação de veículos automotores e motocicletas",retail_customer_service,2019,17865.0,19.1,2599.0
+47950,"Comércio, reparação de veículos automotores e motocicletas",retail_customer_service,2020,16441.0,19.2768,2674.0
+47950,"Comércio, reparação de veículos automotores e motocicletas",retail_customer_service,2021,16689.0,18.9801,2448.0
+47950,"Comércio, reparação de veículos automotores e motocicletas",retail_customer_service,2022,18287.0,19.2175,2466.0
+47950,"Comércio, reparação de veículos automotores e motocicletas",retail_customer_service,2023,18666.0,18.9055,2690.0
+47950,"Comércio, reparação de veículos automotores e motocicletas",retail_customer_service,2024,19415.0,19.1641,2813.0
+47950,"Comércio, reparação de veículos automotores e motocicletas",retail_customer_service,2025,19477.0,18.9128,2897.0
+56622,"Transporte, armazenagem e correio",,2012,4238.0,4.7479,3264.0
+56622,"Transporte, armazenagem e correio",,2013,4197.0,4.6215,3214.0
+56622,"Transporte, armazenagem e correio",,2014,4352.0,4.7501,3533.0
+56622,"Transporte, armazenagem e correio",,2015,4318.0,4.7115,3326.0
+56622,"Transporte, armazenagem e correio",,2016,4604.0,5.1216,3197.0
+56622,"Transporte, armazenagem e correio",,2017,4528.0,5.0215,3162.0
+56622,"Transporte, armazenagem e correio",,2018,4665.0,5.0973,3138.0
+56622,"Transporte, armazenagem e correio",,2019,4804.0,5.1361,3067.0
+56622,"Transporte, armazenagem e correio",,2020,4560.0,5.3465,3082.0
+56622,"Transporte, armazenagem e correio",,2021,4486.0,5.1018,2727.0
+56622,"Transporte, armazenagem e correio",,2022,5108.0,5.3679,2979.0
+56622,"Transporte, armazenagem e correio",,2023,5377.0,5.446,2999.0
+56622,"Transporte, armazenagem e correio",,2024,5792.0,5.7172,3261.0
+56622,"Transporte, armazenagem e correio",,2025,5851.0,5.6815,3375.0
+56623,Alojamento e alimentação,,2012,3728.0,4.1765,2252.0
+56623,Alojamento e alimentação,,2013,4158.0,4.5786,2345.0
+56623,Alojamento e alimentação,,2014,4227.0,4.6137,2438.0
+56623,Alojamento e alimentação,,2015,4444.0,4.8489,2264.0
+56623,Alojamento e alimentação,,2016,4698.0,5.2262,2169.0
+56623,Alojamento e alimentação,,2017,5162.0,5.7246,2034.0
+56623,Alojamento e alimentação,,2018,5205.0,5.6873,2051.0
+56623,Alojamento e alimentação,,2019,5614.0,6.0021,2044.0
+56623,Alojamento e alimentação,,2020,4383.0,5.139,2042.0
+56623,Alojamento e alimentação,,2021,4324.0,4.9176,1813.0
+56623,Alojamento e alimentação,,2022,5187.0,5.4509,1941.0
+56623,Alojamento e alimentação,,2023,5458.0,5.528,2221.0
+56623,Alojamento e alimentação,,2024,5436.0,5.3658,2200.0
+56623,Alojamento e alimentação,,2025,5410.0,5.2533,2281.0
+56624,"Informação, comunicação e atividades financeiras, imobiliárias, profissionais e administrativas",banking_financial,2012,9566.0,10.7169,4478.0
+56624,"Informação, comunicação e atividades financeiras, imobiliárias, profissionais e administrativas",banking_financial,2013,9813.0,10.8056,4672.0
+56624,"Informação, comunicação e atividades financeiras, imobiliárias, profissionais e administrativas",banking_financial,2014,10277.0,11.2171,4757.0
+56624,"Informação, comunicação e atividades financeiras, imobiliárias, profissionais e administrativas",banking_financial,2015,10228.0,11.16,4445.0
+56624,"Informação, comunicação e atividades financeiras, imobiliárias, profissionais e administrativas",banking_financial,2016,9751.0,10.8472,4689.0
+56624,"Informação, comunicação e atividades financeiras, imobiliárias, profissionais e administrativas",banking_financial,2017,9865.0,10.9402,4530.0
+56624,"Informação, comunicação e atividades financeiras, imobiliárias, profissionais e administrativas",banking_financial,2018,10177.0,11.1201,4550.0
+56624,"Informação, comunicação e atividades financeiras, imobiliárias, profissionais e administrativas",banking_financial,2019,10543.0,11.2718,4487.0
+56624,"Informação, comunicação e atividades financeiras, imobiliárias, profissionais e administrativas",banking_financial,2020,9952.0,11.6686,4503.0
+56624,"Informação, comunicação e atividades financeiras, imobiliárias, profissionais e administrativas",banking_financial,2021,10536.0,11.9824,4448.0
+56624,"Informação, comunicação e atividades financeiras, imobiliárias, profissionais e administrativas",banking_financial,2022,11172.0,11.7405,4362.0
+56624,"Informação, comunicação e atividades financeiras, imobiliárias, profissionais e administrativas",banking_financial,2023,12258.0,12.4153,4610.0
+56624,"Informação, comunicação e atividades financeiras, imobiliárias, profissionais e administrativas",banking_financial,2024,12549.0,12.3869,4667.0
+56624,"Informação, comunicação e atividades financeiras, imobiliárias, profissionais e administrativas",banking_financial,2025,13400.0,13.0119,4886.0
+56627,Outros serviços,,2012,3829.0,4.2897,2389.0
+56627,Outros serviços,,2013,4141.0,4.5599,2592.0
+56627,Outros serviços,,2014,4053.0,4.4238,2494.0
+56627,Outros serviços,,2015,4249.0,4.6362,2380.0
+56627,Outros serviços,,2016,4369.0,4.8602,2375.0
+56627,Outros serviços,,2017,4488.0,4.9772,2374.0
+56627,Outros serviços,,2018,4858.0,5.3082,2410.0
+56627,Outros serviços,,2019,5029.0,5.3767,2441.0
+56627,Outros serviços,,2020,4333.0,5.0804,2417.0
+56627,Outros serviços,,2021,4153.0,4.7231,2226.0
+56627,Outros serviços,,2022,5164.0,5.4268,2299.0
+56627,Outros serviços,,2023,5292.0,5.3599,2531.0
+56627,Outros serviços,,2024,5586.0,5.5138,2618.0
+56627,Outros serviços,,2025,5550.0,5.3892,2886.0
+56628,Serviços domésticos,,2012,6078.0,6.8092,1137.0
+56628,Serviços domésticos,,2013,5967.0,6.5706,1201.0
+56628,Serviços domésticos,,2014,5856.0,6.3917,1280.0
+56628,Serviços domésticos,,2015,6001.0,6.5478,1257.0
+56628,Serviços domésticos,,2016,6072.0,6.7546,1266.0
+56628,Serviços domésticos,,2017,6046.0,6.705,1248.0
+56628,Serviços domésticos,,2018,6027.0,6.5855,1268.0
+56628,Serviços domésticos,,2019,6079.0,6.4992,1250.0
+56628,Serviços domésticos,,2020,4887.0,5.7299,1263.0
+56628,Serviços domésticos,,2021,5115.0,5.8172,1157.0
+56628,Serviços domésticos,,2022,5706.0,5.9963,1187.0
+56628,Serviços domésticos,,2023,6042.0,6.1195,1253.0
+56628,Serviços domésticos,,2024,5957.0,5.88,1303.0
+56628,Serviços domésticos,,2025,5714.0,5.5485,1367.0
+60032,"Administração pública, defesa, seguridade social, educação, saúde humana e serviços sociais",,2012,14057.0,15.7482,4259.0
+60032,"Administração pública, defesa, seguridade social, educação, saúde humana e serviços sociais",,2013,14255.0,15.6969,4445.0
+60032,"Administração pública, defesa, seguridade social, educação, saúde humana e serviços sociais",,2014,14749.0,16.0982,4539.0
+60032,"Administração pública, defesa, seguridade social, educação, saúde humana e serviços sociais",,2015,14981.0,16.3461,4455.0
+60032,"Administração pública, defesa, seguridade social, educação, saúde humana e serviços sociais",,2016,15117.0,16.8165,4534.0
+60032,"Administração pública, defesa, seguridade social, educação, saúde humana e serviços sociais",,2017,15111.0,16.758,4578.0
+60032,"Administração pública, defesa, seguridade social, educação, saúde humana e serviços sociais",,2018,15731.0,17.1888,4833.0
+60032,"Administração pública, defesa, seguridade social, educação, saúde humana e serviços sociais",,2019,15898.0,16.997,4716.0
+60032,"Administração pública, defesa, seguridade social, educação, saúde humana e serviços sociais",,2020,15398.0,18.0539,4762.0
+60032,"Administração pública, defesa, seguridade social, educação, saúde humana e serviços sociais",,2021,15666.0,17.8166,4689.0
+60032,"Administração pública, defesa, seguridade social, educação, saúde humana e serviços sociais",,2022,16816.0,17.6717,4281.0
+60032,"Administração pública, defesa, seguridade social, educação, saúde humana e serviços sociais",,2023,17547.0,17.7722,4524.0
+60032,"Administração pública, defesa, seguridade social, educação, saúde humana e serviços sociais",,2024,18069.0,17.8355,4631.0
+60032,"Administração pública, defesa, seguridade social, educação, saúde humana e serviços sociais",,2025,18967.0,18.4176,4903.0

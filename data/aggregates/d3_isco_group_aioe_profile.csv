@@ -1,0 +1,11 @@
+isco_major_group,label,aioe,soc_groups_used
+0,Armed forces occupations,-0.359,33
+1,Managers,0.962,11
+2,Professionals,0.839,13+15+17+19+21+23+25+27+29
+3,Technicians and associate professionals,0.709,13+15+17+27+29
+4,Clerical support workers,0.645,43
+5,Service and sales workers,-0.257,31+33+35+39+41
+6,"Skilled agricultural, forestry and fishery workers",-1.057,45
+7,Craft and related trades workers,-1.016,47+49+51
+8,"Plant and machine operators, and assemblers",-0.785,51+53
+9,Elementary occupations,-0.93,35+37+45+53

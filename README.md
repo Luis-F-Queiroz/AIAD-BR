@@ -93,3 +93,17 @@ A `CITATION.cff` is included (GitHub shows a **"Cite this repository"** button).
 
 Data: **CC BY 4.0**. Code: **MIT** (see [`LICENSE`](LICENSE)). Underlying firm disclosures are public
 records of CVM (Brazil) and the SEC (US); only short verbatim quotes are reproduced here as evidence.
+
+## Paper aggregates and instruments (D1–D3, D5)
+
+`data/aggregates/` carries the sector-level datasets behind the companion paper
+"Equalizador ou Divisor?": the World Bank WDI macro panel (D1), the PNAD Contínua
+activity panel (D2), the AI-exposure mappings and Brazilian occupation-mix weights
+(D3), and the accrual-test series and verdicts (D5, including the labor-share
+supplement). `code/` now also carries the corresponding build scripts —
+`build_d3_ai_exposure.py`, `build_d3_occmix_weighted.py`, `build_d5_accrual.py` —
+and the scripts that generate the paper's two figures from these same files
+(`build_port_f1_accrual.py`, `build_port_f2_occupation_mix.py`). Every number in
+the paper's tables and figures reproduces from these CSVs; the scripts assume the
+original project layout (`Data/` root) and are published here for auditability of
+each transformation.
